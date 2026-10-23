@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VulkanKhoronosLearning.vcxproj" Id="653739b8-3d8a-43fa-a1ff-202cb0e06886" />
+</Solution>
